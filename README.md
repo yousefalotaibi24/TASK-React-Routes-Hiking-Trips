@@ -32,9 +32,9 @@ npm install react-router react-router-dom
 4. In `TripDetail.js` import `useParams` from `react-router-dom`.
 5. Extract the `tripId` coming from the url and store it in a variable called `tripId`.
 6. Find the correct trip from the trips data file.
-7. Import `Navigation` from `react-router-dom` and if the trip isn't found redirect the user to the home page.
+7. Import `Navigate` from `react-router-dom` and if the trip isn't found redirect the user to the home page.
 8. Switch from using ids to using slugs.
 
 ## Challenge
 
-1. You have 3 buttons: easy, moderate and hard. when a button is clicked, filter the trips according to difficulty by changing the url, for example http://www.localhost:8000/trips?easy
+1. You have 3 buttons: easy, moderate and hard. when a button is clicked, filter the trips according to difficulty by changing the url, for example http://www.localhost:8000/trips/easy
