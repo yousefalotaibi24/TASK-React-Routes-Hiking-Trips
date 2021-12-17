@@ -185,7 +185,7 @@ const trip = tripsData.find((trip) => trip.slug === tripSlug);
 
 ## Challenge
 
-You have 3 buttons: easy, moderate and hard. when a button is clicked, filter the trips according to difficulty by changing the url, for example http://www.localhost:8000/trips?easy
+You have 3 buttons: easy, moderate and hard. when a button is clicked, filter the trips according to difficulty by changing the url, for example http://www.localhost:8000/trips/easy
 
 1. In `TripsList.js` wrap your buttons with a `Link` tag.
 
