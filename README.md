@@ -1,7 +1,10 @@
+## Instructions 
+
+- fork and [clone this repository](https://github.com/JoinCODED/Hiking-Trips-Routes)
 
 ## Routes
 
-1. Install `react-router` and `react-router-dom` to your react app.
+1. Install `react-router-dom` to your react app.
 
 ```javascript
 npm install react-router react-router-dom
