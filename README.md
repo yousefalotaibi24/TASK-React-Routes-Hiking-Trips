@@ -1,6 +1,6 @@
 ## Instructions 
 
-- fork and [clone this repository](https://github.com/JoinCODED/Hiking-Trips-Routes)
+- fork and [clone this repository](https://github.com/JoinCODED/TASK-Hiking-Trips-Routes)
 
 ## Routes
 
