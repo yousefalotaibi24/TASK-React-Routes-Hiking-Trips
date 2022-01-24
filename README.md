@@ -18,8 +18,6 @@ npm install react-router-dom
 
 5. Wrap all your routes in `Routes`.
 
-6. Reorganise your routes so the longest paths comes first.
-
 ## Navbar Links
 
 1. In `Nav.js` import `NavLink` from `react-router-dom`.
