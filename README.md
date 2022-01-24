@@ -12,7 +12,7 @@ npm install react-router-dom
 
 2. In `index.js` import `BrowserRouter` from `react-router-dom` and wrap `App` with `BrowserRouter`.
 
-3. Import `Route` and `Routes` from `react-router`.
+3. Import `Route` and `Routes` from `react-router-dom`.
 
 4. In `App.js` Wrap each component with `Route` and add its `path`.
 
