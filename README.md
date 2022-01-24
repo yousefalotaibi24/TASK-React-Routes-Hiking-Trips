@@ -7,7 +7,7 @@
 1. Install `react-router-dom` to your react app.
 
 ```javascript
-npm install react-router react-router-dom
+npm install react-router-dom
 ```
 
 2. In `index.js` import `BrowserRouter` from `react-router-dom` and wrap `App` with `BrowserRouter`.
@@ -40,4 +40,5 @@ npm install react-router react-router-dom
 
 ## Challenge
 
-1. You have 3 buttons: easy, moderate and hard. when a button is clicked, filter the trips according to difficulty by changing the url, for example http://www.localhost:8000/trips/easy
+1. You have 3 buttons: easy, moderate and hard. when a button is clicked, filter the trips according to difficulty by changing the url, for example http://www.localhost:8000/trips?difficulty=easy
+Hint: [useSearchParams](https://reactrouter.com/docs/en/v6/api#usesearchparams)
